@@ -1,0 +1,9 @@
+345 3rd blvd apt 200, WA - 1 occupant(s):
+234 2nd ave, FL - 1 occupant(s):
+  Frank Jones, 234 2nd Ave., FL, 23 years old
+123 main st, WA - 3 occupant(s):
+  Alice Smith, 123 Main St., WA, 45 years old
+234 2nd ave, WA - 3 occupant(s):
+  Carol Johnson, 234 2nd Ave, WA, 67 years old
+  Eve Smith, 234 2nd Ave., WA, 25 years old
+  Bob Williams, 234 2nd Ave., WA, 26 years old

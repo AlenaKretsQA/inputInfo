@@ -1,0 +1,14 @@
+Address: 123 Main St, Seattle, WA has 2 occupants older than 18 years:
+1) FirstName='Alice', LastName='Smith', Age=45
+2) FirstName='Dave', LastName='Smith', Age=43
+
+Address: 234 2nd Ave, Tacoma, WA has 2 occupants older than 18 years:
+1) FirstName='Eve', LastName='Smith', Age=25
+2) FirstName='Bob', LastName='Williams', Age=26
+
+Address: 234 2nd Ave, Seattle, WA has 1 occupants older than 18 years:
+1) FirstName='Carol', LastName='Johnson', Age=67
+
+Address: 234 2nd Ave, Tacoma, FL has 1 occupants older than 18 years:
+1) FirstName='Frank', LastName='Jones', Age=23
+
